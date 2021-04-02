@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohaemd Akeel</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Akeel</h1>
 <h3 align="center">Interested in Full stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akeelmnm&label=Profile%20views&color=0e75b6&style=flat" alt="akeelmnm" /> </p>
