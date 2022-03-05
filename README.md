@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Augmented Reality, React Native, Flutter, and NodeJS**
 
-- 💼 I worked as software engineering intern at Hatchyard
+- 💼 I worked as software engineering intern at Hatchyard(Pvt)Ltd.
 
 - 📝 I regularly write articles on [https://akeelmnm.blogspot.com/](https://akeelmnm.blogspot.com/)
 
