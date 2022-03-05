@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Akeel</h1>
-<h3 align="center">Interested in Full stack development</h3>
+<h3 align="center">Interested in full stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akeelmnm&label=Profile%20views&color=0e75b6&style=flat" alt="akeelmnm" /> </p>
 
 - 🌱 I’m currently learning **Augmented Reality, React Native, Flutter, and NodeJS**
+
+- 💼 I worked as software engineering intern at Hatchyard
 
 - 📝 I regularly write articles on [https://akeelmnm.blogspot.com/](https://akeelmnm.blogspot.com/)
 
