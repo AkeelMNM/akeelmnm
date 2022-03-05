@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akeelmnm&label=Profile%20views&color=0e75b6&style=flat" alt="akeelmnm" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, ExpressJS, MongoDB, KoaJS and NodeJS**
+- 🌱 I’m currently learning **Augmented Reality, React Native, Flutter, and NodeJS**
 
 - 📝 I regularly write articles on [https://akeelmnm.blogspot.com/](https://akeelmnm.blogspot.com/)
 
