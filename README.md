@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akeelmnm&label=Profile%20views&color=0e75b6&style=flat" alt="akeelmnm" /> </p>
 
-- 🌱 I’m currently learning **Augmented Reality, React Native, Flutter, and NodeJS**
+- 🌱 I’m currently learning **Augmented Reality, React Native, Typescript, and NodeJS**
 
 - 💼 I worked as software engineering intern at Hatchyard(Pvt) Ltd.
 
